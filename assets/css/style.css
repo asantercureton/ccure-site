@@ -1,0 +1,259 @@
+.bodyHome {
+    background-image: linear-gradient(rgb(1, 29, 0), rgb(2, 58, 0), rgb(0, 75, 0), rgb(1, 29, 0));
+}
+
+.bodyCreamery {
+    background-image: linear-gradient(rgb(44, 0, 85), rgb(0, 183, 255), rgb(0, 128, 179));
+}
+
+header {
+    margin-top: 15px;
+    padding: 30px;
+    height: 25px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: rgba(0, 0, 0, 0.185);
+    border: 0 solid rgba(0,0,0,.185);
+    box-shadow: 0 0 17px 25px rgb(0 0 0 / 0.185);
+    width: 100%;
+    z-index: 100;
+}
+
+.title {
+    color: whitesmoke;
+    font-family: 'Berkshire Swash', cursive;
+}
+
+header > a:hover {
+    text-decoration: none;
+    text-shadow: 0 0 7px yellow;
+}
+
+.navbar {
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+.navA {
+    padding: 25px;
+    color: rgb(255, 255, 255);
+}
+
+.navA:hover {
+    color: whitesmoke;
+    text-decoration: none;
+    text-shadow: 0 0 7px yellow;
+}
+
+.shopBtn {
+    width: 115px;
+    font-size: 150%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(170, 255, 0);
+    border: 3px solid yellow;
+    transform: scale(.80);
+}
+
+.shopBtn:hover {
+    color: rgb(2, 172, 2);
+    background-color: whitesmoke;
+    box-shadow: 0 0 7px yellow;
+}
+.shopBtn {
+    width: 115px;
+    font-size: 150%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(255, 255, 255);
+    background-color: green;
+}
+
+main > p {
+    text-align: center;
+    color: rgba(245, 245, 245, 0.842);
+    font-size: 150%;
+}
+
+.homeTop {
+    text-align: center;
+}
+
+.cardArts {
+    margin-top: 35px;
+    background-image: url('../images/art.jpg');
+    background-size: cover;
+    background-image: linear-gradient( rgba(255, 255, 255, 0.178), rgba(190, 146, 0, 0.26));
+    border: 5px solid whitesmoke;
+    padding: 125px 150px 400px 150px;
+    text-align: center;
+    margin-bottom: 5px;
+    border-radius: 10px;
+}
+
+.cardArts:hover {
+    box-shadow: 0 5px 15px rgb(255, 174, 0);
+    cursor: pointer;
+    transform: scale(1.05);
+    transition: .2s ease;
+}
+
+.cardCureplex {
+    margin-top: 35px;
+    background-image: url('../images/basketball.jpg');
+    background-size: cover;
+    background-image: linear-gradient( rgba(255, 255, 255, 0.178), rgba(190, 146, 0, 0.26));
+    border: 5px solid whitesmoke;
+    padding: 125px 150px 400px 150px;
+    text-align: center;
+    margin-bottom: 5px;
+    border-radius: 10px;
+}
+
+.cardCureplex:hover {
+    box-shadow: 0 5px 15px rgb(0, 225, 255);
+    cursor: pointer;
+    transform: scale(1.05);
+    transition: .2s ease;
+}
+
+.cardCreamery {
+    margin-top: 35px;
+    background-image: url('../images/push-pops.jpg');
+    background-size: cover;
+    background-image: linear-gradient( rgba(255, 255, 255, 0.178), rgba(190, 146, 0, 0.26));
+    border: 5px solid whitesmoke;
+    padding: 125px 150px 400px 150px;
+    text-align: center;
+    margin-bottom: 5px;
+    border-radius: 10px;
+}
+
+.cardCreamery:hover {
+    box-shadow: 0 5px 15px rgb(226, 84, 255);
+    cursor: pointer;
+    transform: scale(1.05);
+    transition: .2s ease;
+}
+
+.cardTitle {
+    color: whitesmoke;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.cardCoco {
+    margin-top: 35px;
+    margin-left: 65px;
+    background-image: url('../images/coco-drip.jpg');
+    background-size: cover;
+    /* background-image: linear-gradient( rgb(238, 255, 0), rgb(31, 15, 0)); */
+    border: 7px solid whitesmoke;
+    padding: 50px 175px 525px 250px;
+    text-align: center;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+.cardCoco:hover {
+    box-shadow: 0 0 25px yellow;
+    cursor: pointer;
+    transform: scale(1.02);
+    transition: .2s ease;
+}
+
+.cardPush {
+    margin-top: 35px;
+    background-image: url('../images/push-pops-2.jpg');
+    background-size: cover;
+    /* background-image: linear-gradient( rgb(225, 0, 255), rgb(6, 0, 31)); */
+    border: 7px solid whitesmoke;
+    padding: 50px 125px 250px 125px;
+    text-align: center;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+.cardPush:hover {
+    box-shadow: 0 0 25px yellow;
+    cursor: pointer;
+    transform: scale(1.02);
+    transition: .2s ease;
+}
+
+.cardMore {
+    margin-top: 35px;
+    background-image: url('../images/more-flavors.jpg');
+    background-size: cover;
+    /* background-image: linear-gradient( rgb(255, 166, 0), rgb(6, 0, 31)); */
+    border: 7px solid whitesmoke;
+    padding: 50px 225px 250px 225px;
+    text-align: center;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+.cardMore:hover {
+    box-shadow: 0 0 25px yellow;
+    cursor: pointer;
+    transform: scale(1.02);
+    transition: .2s ease;
+}
+
+.cardBrowse {
+    margin-top: 5px;
+    background-image: url('../images/browse-collections.jpg');
+    background-size: cover;
+    /* background-image: linear-gradient( rgb(255, 166, 0), rgb(6, 0, 31)); */
+    border: 7px solid whitesmoke;
+    padding: 100px 350px 150px 400px;
+    text-align: center;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+.cardBrowse:hover {
+    box-shadow: 0 0 25px yellow;
+    cursor: pointer;
+    transform: scale(1.02);
+    transition: .2s ease;
+}
+
+.creamery {
+    display: flex;
+    justify-content: center;
+    margin-right: 50px;
+}
+
+.row2 {
+    display: flex;
+    justify-content: space-around;
+}
+.combineRows {
+    flex-direction: row;
+}
+
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-image: linear-gradient( rgb(175, 175, 175), rgb(255, 255, 255));
+}
+
+.art {
+    padding: 50px;
+}
+
+.artbox {
+    border: 15px solid whitesmoke;
+}
+
+img {
+    border: 10px solid white;
+}
+
+footer {
+    margin-top: 15px;
+    margin-bottom: 10px;
+    text-align: center;
+    color: rgba(236, 255, 199, 0.705);
+}
