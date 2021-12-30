@@ -3,14 +3,10 @@
 ![GitHub](https://img.shields.io/github/repo-size/asantercureton/ccure-site?style=plastic) ![GitHub](https://img.shields.io/github/last-commit/asantercureton/ccure-site?style=plastic) ![GitHub](https://img.shields.io/github/languages/top/asantercureton/ccure-site?style=plastic) ![GitHub](https://img.shields.io/github/followers/asantercureton?style=social)
 
 ## Description
-Designed a professional web portfolio using REACT.
+Designed a professional website for my fine art, fashion pieces and mental health blog.
 
 ## Table Of Contents
 * [Links](#links)
-
-* [Installation](#installation)
-
-* [Instructions](#instructions)
 
 * [Screenshots](#screenshots)
 
@@ -18,16 +14,9 @@ Designed a professional web portfolio using REACT.
 
 
 ## Links
-[Git Repo](https://github.com/asantercureton/react-portfolio)
+[Git Repo](https://github.com/asantercureton/ccure-site)
 
-[Heroku Link](https://frightful-ghoul-36931.herokuapp.com/)
-
-## Installation
-Run npm install at root directory.
-
-
-## Instructions
-Run npm start to intiate the REACT portfolio application.
+<!-- [Heroku Link](https://frightful-ghoul-36931.herokuapp.com/) -->
 
 
 ## Screenshots
@@ -49,4 +38,4 @@ Below is a screenshot of the project:
 ![GitHub license](https://img.shields.io/badge/license-ISC-blue.svg)
 
 ---
-© 2021 Professional REACT Portfolio.
+© 2021 CCure Arts Website.
