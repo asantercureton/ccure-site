@@ -10,32 +10,24 @@ Designed a professional website for my fine art, fashion pieces and mental healt
 
 * [Screenshots](#screenshots)
 
-* [License](#license)
-
 
 ## Links
 [Git Repo](https://github.com/asantercureton/ccure-site)
-
-<!-- [Heroku Link](https://frightful-ghoul-36931.herokuapp.com/) -->
 
 
 ## Screenshots
 Below is a screenshot of the project:
 
-![Image of HomePage](./src/assets/images/react-portfolio-homepage.jpg)
+![Image of HomePage](./assets/images/ccure-homepage.jpg)
 
-![Image of AboutMe](./src/assets/images/react-portfolio-aboutme.jpg)
+![Image of ArtPage](./assets/images/ccure-curearts.jpg)
 
-![Image of Portfolio](./src/assets/images/react-portfolio-project.jpg)
+![Image of CreameryPage](./assets/images/ccure-creamery.jpg)
 
-![Image of ContactMe](./src/assets/images/react-portfolio-contactme.jpg)
+![Image of CureplexPage](./assets/images/ccure-cureplex.jpg)
 
-![Image of Mobile View](./src/assets/images/react-portfolio-mobile-view.jpg)
+![Image of Article](./assets/images/ccure-cureplex-article.jpg)
 
-![Image of Mobile View - Portfolio](./src/assets/images/react-portfolio-mobile-view-project.jpg)
-
-## License
-![GitHub license](https://img.shields.io/badge/license-ISC-blue.svg)
 
 ---
-© 2021 CCure Arts Website.
+© 2021 CCure Coaching, Arts & Apparel, LLC.
