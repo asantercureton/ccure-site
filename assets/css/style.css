@@ -293,16 +293,17 @@ main > p {
 .gallery {
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
-    background-image: linear-gradient( rgb(175, 175, 175), rgb(255, 255, 255));
+    justify-content: space-evenly;
+    padding: 25px;
+    background-image: linear-gradient( rgb(223, 183, 8), rgb(255, 255, 255));
 }
 
 .art {
-    padding: 50px;
+    padding: 10px;
 }
 
 .artbox {
-    border: 15px solid whitesmoke;
+    border: 2px solid rgba(0, 0, 0, 0.089);
 }
 
 img {
